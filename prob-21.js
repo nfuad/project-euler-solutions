@@ -28,7 +28,7 @@ for (let i = 1; i <= 10000; i++) {
     factorSum2 = 0;
 }
 
-//Divide by 2 so that each pair of amicable numbers only counted once.
+// divide by 2 so that each pair's counted once.
 output = output / 2;
 
 console.log(output)
